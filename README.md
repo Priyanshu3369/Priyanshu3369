@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-🎯 Passionate about **Web Development** & **Machine Learning**  
+🎯I'm a dedicated developer specializing in **Web Development** and **Machine Learning**. Recently, I completed my journey into the **MERN Stack** and **Machine Learning**. I’m always motivated by a desire to continuously enhance my skills and bring impactful projects to life.  
 📍 Based in **Gwalior, India**  
 🔨 Currently working on **real-world projects** to sharpen my skills  
 🌟 Aiming to build a **strong portfolio** with impactful applications  
