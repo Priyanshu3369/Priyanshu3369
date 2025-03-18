@@ -35,8 +35,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
----
+## GitHub Stats
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu3369&show_icons=true&theme=radical)
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu3369&layout=compact&theme=radical)
+
+---
 ### 📚 Currently Learning  
 🚀 **Deep Learning** - Exploring neural networks & advanced AI models  
 📊 **Machine Learning** - Understanding algorithms & models  
