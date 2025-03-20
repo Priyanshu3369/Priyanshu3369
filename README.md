@@ -6,6 +6,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ---
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/priyanshu3369&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
 
 ### 🚀 About Me  
 🎯I'm a dedicated developer specializing in **Web Development** and **Machine Learning**. Recently, I completed my journey into the **MERN Stack** and **Machine Learning**. I’m always motivated by a desire to continuously enhance my skills and bring impactful projects to life.  
