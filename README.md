@@ -32,7 +32,9 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-DC143C?style=for-the-badge&logo=pytorch&logoColor=white)    
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-DC143C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+
 
 #### 🛠 Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
