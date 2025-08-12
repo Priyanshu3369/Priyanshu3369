@@ -8,11 +8,15 @@
 ---
 
 
-### 🚀 About Me  
-🎯I'm a dedicated developer specializing in **Web Development** and **Machine Learning**. Recently, I completed my journey into the **MERN Stack** and **Machine Learning**. I’m always motivated by a desire to continuously enhance my skills and bring impactful projects to life.  
-📍 Based in **Gwalior, India**  
-🔨 Currently working on **real-world projects** to sharpen my skills  
-🌟 Aiming to build a **strong portfolio** with impactful applications  
+### 🚀 **About Me**  
+🎯 I’m a passionate developer specializing in **Web Development** and **Machine Learning**, blending creativity with technical precision to bring ideas to life.  
+Recently, I’ve mastered the **MERN Stack** and expanded my expertise into **Machine Learning**, working on real-world projects that challenge my skills and push boundaries.  
+
+📍 **Based in:** Gwalior, India  
+🔨 **Currently:** Building impactful, real-world applications to sharpen my craft  
+🌟 **Goal:** To create a strong portfolio showcasing innovative, high-quality solutions  
+💡 **Fun Fact:** I’m proud to be a **Google Student Ambassador**, connecting students to tech opportunities and fostering innovation.  
+
 
 ---
 
