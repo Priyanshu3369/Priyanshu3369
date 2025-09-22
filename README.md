@@ -1,81 +1,106 @@
-<!-- GitHub README.md -->
+<!-- GitHub Profile README -->
 
-<h1 align="center">Hello 👋, I'm Priyanshu!</h1>
-<h3 align="center">💻 MERN Stack Developer | 🤖 Machine Learning Enthusiast | 🌱 Lifelong Learner</h3>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu3369&label=Profile%20Views&color=00C2FF&style=flat-square" alt="Profile Views" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Priyanshu!;💻+MERN+Stack+Developer;🤖+Machine+Learning+Enthusiast;🚀+Python+Developer+Intern" alt="Typing SVG" />
+</p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
----
-
-
-### 🚀 **About Me**  
-🎯 I’m a passionate developer specializing in **Web Development** and **Machine Learning**, blending creativity with technical precision to bring ideas to life.  
-Recently, I’ve mastered the **MERN Stack** and expanded my expertise into **Machine Learning**, working on real-world projects that challenge my skills and push boundaries.  
-
-📍 **Based in:** Gwalior, India  
-🔨 **Currently:** Building impactful, real-world applications to sharpen my craft  
-🌟 **Goal:** To create a strong portfolio showcasing innovative, high-quality solutions  
-💡 **Fun Fact:** I’m proud to be a **Google Student Ambassador**, connecting students to tech opportunities and fostering innovation.  
-
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500" alt="Coding Animation">
+</p>
 
 ---
 
-### 🛠 Tech Stack & Tools  
+# 🚀 About Me  
+🎯 A **passionate developer** crafting real-world solutions using **MERN Stack** & **Machine Learning**.  
+✨ Exploring **Deep Learning, AI, and Web Optimization** while building impactful projects.  
+🌍 Based in: **Gwalior, India**  
+🔥 Fun Fact: Proud **Google Student Ambassador**  
 
-#### 🌐 Web Development  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+---
 
-#### 🤖 AI & Machine Learning  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-DC143C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+# 💼 Currently Working On  
+<p align="center">
+  <img src="https://img.shields.io/badge/Gravit%20Infosystems-0078D4?style=for-the-badge&logo=python&logoColor=white" alt="Gravit Infosystems"/>
+</p>
 
+🚀 Currently a **Python Developer Intern** at **Gravit Infosystems**,  
+where I’m building scalable solutions, automating workflows,  
+and crafting clean, efficient code to make real-world impact.  
 
-#### 🛠 Tools  
+---
+
+# 🛠️ Tech Stack  
+
+### 🌐 Web Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+### 🤖 AI & Machine Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+
+### 🛠 Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)      
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
 
 ---
 
-## GitHub Stats
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu3369&show_icons=true&theme=radical)
+# 📊 GitHub Stats  
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu3369&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu3369&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu3369&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu3369&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170"/>
+</p>
 
-### 📚 Currently Learning  
-🚀 **Deep Learning** - Exploring neural networks & advanced AI models  
-📊 **Machine Learning** - Understanding algorithms & models  
-🧩 **Data Structures & Algorithms** - Enhancing problem-solving skills  
-⚡ **Full-Stack Optimization** - Writing high-performance applications  
-
----
-
-### 💡 Open to Collaboration  
-🚀 Looking to collaborate on **Machine Learning** and **Web Development** projects.  
-📬 Feel free to **reach out** if you have an exciting project idea!  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu3369&theme=tokyonight" />
+</p>
 
 ---
 
-### 🌟 Fun Facts & Interests  
-🎮 Love gaming & coding challenges    
-🎧 Enjoy listening to Music while coding  
-🌍 Passionate about AI for social good  
+# 💡 Open to Collaboration  
+✔️ ML & AI Projects 🤖  
+✔️ Full-Stack Web Apps 🌐  
+✔️ AI for Social Good 🌍  
+
+📬 DM me if you’ve got an **exciting idea** 💡  
 
 ---
 
-### 🚀 Let's Connect & Build!  
-📬 **Let's connect and build something awesome together!**  
-Feel free to reach out via **LinkedIn, GitHub, or Email** if you want to collaborate or discuss cool ideas! 🚀  
+# 🌟 Fun Facts  
+🎮 Gamer + Coder 🎧 Music fuels my coding sessions  
+🌍 Passionate about **AI for social impact**  
+
+---
+
+# 🤝 Let’s Connect  
+
+<p align="center">
+  <a href="https://github.com/Priyanshu3369"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-chourasiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:priyanshuchourasiya3369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+✨ *“Code. Learn. Build. Inspire.”* ✨
